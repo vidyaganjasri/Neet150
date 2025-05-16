@@ -35,3 +35,16 @@ for num in nums:
         return True
     hs.add(num)
 return False
+
+
+REal time scenarios : 
+2. User Registration: Unique Username / Email
+Scenario: Ensure that a new user isn't registering with a username or email that's already taken.
+
+Use case:
+
+Avoid duplicate accounts using the same email.
+🎓 3. University: Student Roll Number Entry
+📅 5. Event Registration
+
+
