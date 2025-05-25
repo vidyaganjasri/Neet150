@@ -84,14 +84,17 @@ ans = [1]*len(nums)
         return ans 
 ```
 
-Team work:
+
+# Real-Life Examples of "Product of Array Except Self"
+
+### Team work:
 You have a team and each person works hard. You want to know how much work the rest of the team did if you don’t count one person.
 
-System parts:
+### System parts:
 A machine has many parts, and its total performance depends on all parts working well. You want to see how well the machine works if one part is removed.
 
-Investments:
+### Investments:
 You have several investments, and the total money grows because of all of them. You want to check how much the portfolio grows if you take out one investment.
 
-Factory process:
+### Factory process:
 A product goes through many steps in a factory, and each step affects how many good products are made. You want to find out the total good products if one step didn’t happen.
