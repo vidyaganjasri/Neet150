@@ -42,13 +42,13 @@ Now this is the part you explained deeply — let’s walk through it exactly as
 ### 🧠 How do we identify the 9 sub-grids?
 
 We label the 3×3 subgrids from **0 to 8** like this:
-+-----+-----+-----+
+---
 | 0 | 1 | 2 |
-+-----+-----+-----+
+---
 | 3 | 4 | 5 |
-+-----+-----+-----+
+---
 | 6 | 7 | 8 |
-+-----+-----+-----+
+---
 So we loop: `for square in range(9)`
 
 ---
